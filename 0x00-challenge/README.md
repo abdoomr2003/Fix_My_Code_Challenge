@@ -37,14 +37,6 @@ $ ./0-fizzbuzz.py 50
 $
 ```
 
-```C
-include <stdio.h>
-int main(void)
-{
-        return (0);
-}
-```
-
 15 should print FizzBuzz not Fizz
 
 ### Repo:(Info)
